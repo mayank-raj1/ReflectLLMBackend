@@ -7,3 +7,4 @@ This is the backend api for ReflectLLM, made to process user entries, genaratre 
 
 
 ## In-Progress 🏗️
+This project is still under development, will added more deatils once complete 😃 
